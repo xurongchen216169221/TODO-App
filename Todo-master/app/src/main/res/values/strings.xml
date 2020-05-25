@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="intro_icon">intro icon</string>
+    <string name="intro_welcome">Welcome to use To do</string>
+    <string name="intro_subtitle">make life easier</string>
+    <string name="start">Start</string>
+    <string name="hint_title">title</string>
+    <string name="hint_remark">remark</string>
+    <string name="unimportant">unimportant</string>
+    <string name="important">important</string>
+    <string name="alert">alert</string>
+    <string name="reminder">Reminder</string>
+    <string name="add">Add</string>
+    <string name="modify">Modify</string>
+    <string name="title_error">title can not be empty</string>
+    <string name="add_success">add successfully</string>
+    <string name="delete_success">delete successfully</string>
+    <string name="restore">restore</string>
+    <string name="delete_all_msg">Do you want to delete all?</string>
+    <string name="delete">delete</string>
+    <string name="cancel_dialog">Cancel</string>
+</resources>

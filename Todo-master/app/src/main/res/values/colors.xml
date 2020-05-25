@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorLightPrimary">#B3E5FC</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="rv_background">#fa315b</color>
+    <color name="fab_menu">#FF4081</color>
+    <color name="browser">#607d8b</color>
+</resources>
